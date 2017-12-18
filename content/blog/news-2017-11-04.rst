@@ -1,0 +1,23 @@
+news-2017-11-04
+#################
+:date: 2017-11-04 2:30
+:slug: news-2017-11-04
+:tags: News, 2017, Bitcoin, Sibirien, Android, Bodeneffektfahrzeuge, NASA, Gletscher, Air Berlin, Insolvenz, Deutschland, Frankreich, Terror, Ausnahmezustand, Staatsdruckerei, Oesterreich, Suedkorea, Microsoft, Excel
+:lang: de
+
+**IT/Technik**
+ - Mit Mining "gratis" `heizen <https://qz.com/1117836/bitcoin-mining-heats-homes-for-free-in-siberia/>`_ - in Sibirien
+ - Bitcoin kurs erstmals `ueber 6.300 Euro <http://www.finanzen.net/devisen/bitcoin-euro-kurs>`_
+ - Anscheinend hatte Google Probleme beim neuen Pixel 2 Smartphone und lieferte einige `ohne Betriebssystem aus <http://www.androidpolice.com/2017/11/02/pixel-2-xl-units-shipping-without-operating-system/#1>`_
+ - Russland plant neue `Bodeneffektfahrzeuge <http://derstandard.at/2000067063342/Russland-plant-neueBodeneffektfahrzeuge>`_
+ - Importiert jemand csvs `in Excel <http://georgemauer.net/2017/10/07/csv-injection.html>`_?
+
+**Umwelt/Natur**
+ - Laut NASA schmelzen die Gletscher `schneller als angenommen <https://heise.de/-3878078>`_
+
+**Finanzen**
+ - Air Berlin legt `Insolvenz in der Insolvenz hin <http://www.zeit.de/wirtschaft/unternehmen/2017-11/air-berlin-insolvenz-ueberbrueckungskredit-bundesregierung>`_
+
+**Politik**
+ - Frankreich `beendet den Ausnahmezustand <http://derstandard.at/2000066999677/Ende-des-Ausnahmezustands-in-Frankreich>`_
+ - Paesse aus Wien fuer `Suedkorea <http://www.orf.at//stories/2412649/>`_

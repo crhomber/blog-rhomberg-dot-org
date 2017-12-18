@@ -1,0 +1,40 @@
+News KW37 2014
+##############
+:date: 2014-09-12 20:25
+:slug: news-37-04
+:tags: News, 2014, Pornografie, NATO, Fotografie, Jihad, Linux, Botnet, Vorarlberg, Russland, Gas, China, Lebensmittel, Müll, Java, Exploit, Enigmail, GnuPG, WhatsApp, Deutschland, Waffen, ING-Diba, iPhone, PIN, Phishing, Ferguson, Polizeigewalt
+:lang: de
+
+In letzter Zeit bin ich nicht mehr zur wöchentlichen News-Sammlung gekommen,
+hiermit werde ich nun alles nachholen - schon alleine damit mein RSS-Reader wieder übersichtlicher wird.
+
+**IT/Technik**
+ - `Ausgerechnet auf java.com wurde ein Java-Exploit verteilt <http://heise.de/-2304864>`_ 
+ - `Karten-PIN mittels iPhone-Wärmebildkamera ausspähbar <http://www.golem.de/news/flir-one-pin-ausspaehung-per-waermesensor-1409-108985.html>`_
+ - `ING-Diba ersetzt Postident durch Videokonferenz <http://www.golem.de/news/ing-diba-bank-ersetzt-postident-mit-videokonferenz-1409-109107.html>`_
+ - `Enigmail schlampert bei BCC <http://www.golem.de/news/pgp-enigmail-verschickt-unverschluesselte-bccs-1409-109153.html>`_
+ - `WhatsApp: Nach Update plötzlich weniger privat <http://derstandard.at/2000005437518/WhatsApp-Nach-Update-ploetzlich-weniger-privat?ref=rss>`_
+ - `Akamai warnt vor Linux-Botnet <http://heise.de/-2344811>`_
+
+**Medien/Internet**
+ - `Fahter. Photographer. Child Pornographer? <https://www.youtube.com/watch?v=JdkLvzgfVNQ>`_
+ - `Journalismus von morgen: Die virtuelle Feder - arte Doku <http://www.youtube.com/watch?v=nxH077wRCuI>`_
+
+**Vorarlberg/Region**
+ - `In Vorarlberg landen jährlich 4.000 Tonnen Lebensmittel im Müll <http://vorarlberg.orf.at/news/stories/2665484/>`_
+ - `Regierung in Wien antwortet zu Störungen der zivilen Flugsicherung durch NATO-Manöver <https://netzpolitik.org/2014/regierung-in-wien-antwortet-zu-stoerungen-der-zivilen-flugsicherung-durch-nato-manoever/>`_
+ - `AK Vorarlberg findet Gesetzeswidrige Klauseln bei T-Mobile AGBs <http://vorarlberg.orf.at/news/stories/2667970/>`_
+
+**Gesellschaft**
+ - `Kind oder Leben <http://diestandard.at/2000004930932/Kind-oder-Leben-ist-das-die-Frage?ref=rss>`_
+
+**Welt**
+ - `Die Verführungskraft des Jihadismus <http://derstandard.at/2000004706278/Die-Verfuehrungskraft-des-Jihadismus?ref=rss>`_
+ - `Deutschland liefert Waffen an Kurden <http://www.spiegel.de/politik/ausland/irak-deutschland-schickt-kurden-panzerabwehrraketen-a-989117.html>`_
+ - `Die Israelis freuen sich über das atomwaffenfähige U-Boot, welches ihnen die Deutschen geliefert haben <http://blog.fefe.de/?ts=aaf9825f>`_
+ - `Webseiten, die Spenden für Baller-Cops in Ferguson sammelten, wurden abgeschaltet <http://blog.fefe.de/?ts=aafabda7>`_
+ - `Russland baut Gaspipeline nach China <http://blog.fefe.de/?ts=aaf8de57>`_
+
+**Politik**
+ - `Oettinger soll mit den USA über TTIP verhandeln - OMG <http://heise.de/-2345008>`_
+ - `Schwärzungen bei Akten für den NSA-Ausschuss machen diese sinnlos <http://blog.fefe.de/?ts=aaeed140>`_

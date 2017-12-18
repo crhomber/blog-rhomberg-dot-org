@@ -1,0 +1,15 @@
+News KW30 2014
+##############
+:date: 2014-07-27 22:25
+:slug: news-30-04
+:tags: News, 2014, Tesla, Dota, Tracking, TOR
+
+**IT/Technik**
+ - `Tesla S gehackt <http://www.golem.de/news/tueren-geoeffnet-studenten-hacken-tesla-model-s-1407-108021.html>`_
+ - `5 Millionen Dollar für DOTA-2 <http://heise.de/-2263753>`_
+ - `Fernwartung aus Afrika <http://www.golem.de/news/phishing-angriffe-nigerianische-scammer-ruesten-auf-1407-108044.html>`_
+ - `Tracking mit Bildern statt Cookies <http://www.golem.de/news/privacy-unsichtbares-tracking-mit-bildern-statt-cookies-1407-108049.html>`_
+ - `Russland: 3,9 Millionen Rubel für De-Anonymisierung von Tor <http://heise.de/-2268010>`_
+
+**Umwelt/Natur**
+ - `Warum es der Welt egal ist, ob wir sie retten <http://nachhaltig-sein.info/unternehmen-csr-nachhaltigkeit/warum-es-der-erde-egal-ist-ob-wir-sie-retten>`_

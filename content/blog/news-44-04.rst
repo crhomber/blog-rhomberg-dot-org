@@ -1,0 +1,23 @@
+News KW44 2014
+##############
+:date: 2014-11-02 21:50
+:slug: news-44-04
+:tags: News, 2014, Facebook, Drupal, TTIP, Gruene, TOR, Office,  Finanzkriese, Valdai Club, Putin, Schuessel, Hong Kong, Demokratie
+:lang: de
+
+**IT/Technik**
+ - `Drupal GAU <http://heise.de/-2438298>`_
+ - `Malware im TOR-Netz <http://heise.de/-2432114>`_
+ - `Zero-Day in Windows <http://heise.de/-2430145>`_
+
+**Politik**
+ - `Fake-Account diskutiert mit EU-Kommission ueber TTIP <http://derstandard.at/2000007457751/Fake-User-diskutiert-mit-EU-Kommission-ueber-TTIP>`_
+ - `Die Gruenen in Dortmund haben wohl nix mehr zu tun <http://www.ruhrnachrichten.de/staedte/dortmund/Antrag-in-Bezirksvertretung-SPD-und-Gruene-wollen-50-Prozent-Ampelfrauen;art930,2524427>`_
+ - 'Mitschnitt Valdai - Schuessel und Putin <http://www.youtube.com/watch?v=9F9pQcqPdKo>`_
+ - `Snowden-Interview <https://www.youtube.com/watch?v=fidq3jow8bc>`_
+
+**Welt**
+ - `Anzahl der Milliardaere hat sich seit der Finanzkriese verdoppelt <http://www.independent.co.uk/news/world/politics/number-of-global-billionaires-has-doubled-since-the-financial-crisis-9826345.html>`_
+ - `In Hong Kong will man aufgrund von Armut keine direkten Wahlen zulassen - WTF <http://qz.com/290281/forget-self-driving-cars-we-should-be-focusing-on-self-driving-buses/>`_ 
+ - `Ein Salafist ist trotz Fussfaesseln in den Dschihad gegangen - WTF <http://www.swr.de/report/behoerdenpanne-angeklagter-salafist-aus-hessen-reist-trotz-fussfessel-nach-syrien-aus/-/id=233454/nid=233454/did=14121254/1iqf9od/index.html>`_
+

@@ -1,0 +1,37 @@
+News KW26 2014
+##############
+:date: 2014-06-28 21:58
+:slug: news-26-04
+:tags: News, 2014, NSA, Putin, Russland, Roaming, EU, Android, Heartbleed, OpenSSL, PHP, Microsoft, Surface, Werbung, Amazon, Berlin, Waffen, Uran, Telekom Austria, ÖBB, Feldkirch, Vorarlberg
+
+**IT/Technik**
+ - `Roaminggebühren sinken mit 1. Juli <http://derstandard.at/2000002209215/EU-Roaminggebuehren-sinken-mit-1-Juli?ref=rss>`_
+ - `Manche Android Smartphones lassen sich mittels SMS zum Neustart zwingen <http://www.golem.de/news/android-smartphones-lassen-sich-per-sms-zum-neustart-zwingen-1406-107372.html>`_
+ - `Nach dem Heartbleed-Bug sind die Aufräumarbeiten wohl stehen geblieben <http://heise.de/-2236853>`_
+ - `Die weit verbreitete PHP-Gallery-Software "Gallery" wird nicht mehr weiterentwickelt <http://www.golem.de/news/online-bildergalerie-menalto-gallery-wird-nicht-mehr-weiterentwickelt-1406-107388.html>`_
+ - `Microsoft gibt 650 Dollar (!) Rabatt bei MacBook Air Eintausch <http://derstandard.at/2000002265677/Surface-3-Microsoft-gibt-650-Dollar-Rabatt-bei-MacBook-Air?ref=rss>`_
+ - `Amazon verzichtet in Zukunft auf eine Rechnung im Papier-Format <http://rss.feedsportal.com/c/33374/f/578068/p/1/s/1506c407/l/0L0Sgolem0Bde0Cnews0Camazon0Eabschaffung0Eder0Epapierrechnung0Everaergert0Ekunden0E140A60E10A740A60Erss0Bhtml/story01.htm>`_
+ - `Werbung im Social Web bringt nichts! <http://www.computerwelt.at/news/detail/artikel/104964-werbung-im-social-web-bringt-nichts/>`_
+ - `Die CIA und Amazon bauen Kooperation weiter aus <http://heise.de/-2238226>`_
+
+**Politik**
+ - `US-Army und USAF haben 2003 im Irak Uran-Munition verschossen <http://www.theguardian.com/world/2014/jun/19/us-depleted-uranium-weapons-civilian-areas-iraq>`_
+ - `Die EU-Staaten denken über einen gemeinsamen Grenzschutz nach <http://derstandard.at/2000002255246/EU-Staaten-denken-ueber-gemeinsamen-Grenzschutz-nach?ref=rss>`_
+ - `In Berlin sind ein paar tolle Akten zum neuen Flughafen aufgetaucht <http://blog.fefe.de/?ts=ad564168>`_
+ - `Im Netz ist ein White-Paper zur Urheberrechtsreform der EU aufgetaucht <https://netzpolitik.org/2014/entwurf-fuer-eu-white-paper-zur-urheberrechtsreform-geleakt/>`_
+ - `Interessante Akten einer Bank auf den Caymen Islands im Hamburger Hafen aufgetaucht <http://blog.fefe.de/?ts=ad560513>`_
+ - `Einige Bundestagsabgeordnete in Deutschland haben IPs von Verizon, wie geil ist das denn?! <http://www.golem.de/news/bundestagsabgeordnete-ip-adressen-kommen-von-verizon-1406-107423.html>`_
+ - `Die NSA hatte wohl doch Zugriff auf DE-CIX <http://www.golem.de/news/ueberwachung-nsa-hatte-direkten-zugriff-auf-de-cix-1406-107467.html>`_
+
+**Österreich**
+ - `Die Telekom Austria kauft in Mazedonien ein <http://derstandard.at/2000002238312/TelekomAustria-kauft-Kabelbetreiber-in-Mazedonien?ref=rss>`_
+ - `Die Ölversorgung ist gesichert <http://derstandard.at/2000002250637/OMV-und-Gasprom-fixieren-Gaspipeline-South-Stream?ref=rss>`_
+ - `Die ÖBB hat mal einen Waggon verloren <http://vorarlberg.orf.at/news/stories/2654152/>`_
+ - `Bürgerinitiativen gegen Tunnelbau in Feldkirch <http://vorarlberg.gruene.at/themen/demokratie-kontrolle/zwei-buergerinitiativen-gegen-die-feldkircher-tunnelspinne>`_
+ - `Der Verfassungsgerichtshof kippt die Vorratsdatenspeicherung <http://heise.de/-2240832>`_
+ - `Unsere Regierung bringts in der Form nicht <http://derstandard.at/2000002352632/Koalition-steuert-auf-Steuercrash-zu?ref=rss>`_
+ - `In Zwischenwasser wartet eine Familie neun Jahre (!) nach dem Vollbrand ihres Hauses auf den Wiederaufbau! SAUEREI <http://vorarlberg.orf.at/news/stories/2654898/>`_
+ - `Genialer Kommentar von Putin gegenüber von Christoph Leitl "Diktatur" <https://www.youtube.com/watch?v=GL0DXsCcPWA>`_
+
+**Europa**
+ - `Tepco - das sind die Betreiber von Fukushima - wollen nach Europa expandieren <http://www.tagesspiegel.de/wirtschaft/fukushima-firma-plant-expansion-tepco-will-in-europaeischen-markt-einsteigen/10109364.html>`_

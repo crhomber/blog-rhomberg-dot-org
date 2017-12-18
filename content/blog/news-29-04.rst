@@ -1,0 +1,18 @@
+News KW29 2014
+##############
+:date: 2014-07-20 13:05
+:slug: news-29-04
+:tags: News, 2014, Browser, Telekom Austria, Österreich, NATO, GB, Überwachung
+
+**IT/Technik**
+ - `How-To Analyze Everyone <https://netzpolitik.org/2014/how-to-analyze-browser-fingerprinting-bhaviour-tracking/>`_ - Browserfingerprints und Informationen ohne Cookies
+
+**Österreich**
+ - `Gendern - "Rückkehr zur sprachlichen Normalität" gefordert <derstandard.at/2000003047934/Sprachkritiker-gegen-Wildwuchs-beim-Gendern>`_
+ - `America Movil übernimmt Mehrheit bei Telekom Austria - gute Nacht! <http://heise.de/-2260913>`_
+ - `72 Prozent halten an altem Text der Bundeshymne fest - Skandal!1! <derstandard.at/2000003284048/53-Prozent-wollen-Volk-zur-Hymne-fragen>`_
+
+**Europa**
+ - `Leute, schaut in eure Spamordner! <derstandard.at/2000003125890/E-Mail-in-Spamordner-uebersehen-90000-Euro-Schadenersatz>`_
+ - `Briten beschließen Eilgesetz zur Überwachung <http://www.golem.de/news/vorratsdatenspeicherung-briten-beschliessen-eilgesetz-zur-ueberwachung-1407-107917.html>`_
+ - `Flugradar-Ausfall: NATO-Übung als Grund "lieft auf der Hand" <derstandard.at/2000003227051/Flugradar-Ausfall-Nato-Uebung-als-Grund-liegt-auf-der-Hand>`_

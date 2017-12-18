@@ -1,0 +1,13 @@
+News KW24 2014
+##############
+:date: 2014-06-13 13:58
+:slug: news-24-04
+:tags: News, 2014
+
+**Vorarlberg/Österreich**
+ - `In Dornbirn Hatlerdorf gibts wieder Diskussionen ueber den Dorfplatz <http://vorarlberg.orf.at/news/stories/2652382/>`_
+ - `20 Jahre EU Mitgliedschaft <http://spoe.at/story/vor-20-jahren-sagte-oesterreich-%E2%80%9Eja%E2%80%9C-zur-eu>`_
+ - `Interessante Informationen zur Vorratsdatenspeicherung <http://www.parlament.gv.at/PAKT/VHG/XXV/AB/AB_01179/imfname_353625.pdf>`_
+ - `Drei verletzt die Netzneutralitaet <https://netzpolitik.org/2014/netzneutralitaet-5-gruende-warum-der-spotify-tarif-in-oesterreich-ein-problem-ist/>`_
+ - `Der Vetterhof liefert jetzt auch per Lastenrad <http://vetterhof.at/lastenrad/>`_
+ - `Die NATO macht Uebungen und die Flugsicherung spinnt <http://derstandard.at/2000001942157/Flugsicherungin-Oesterreich-neuerlich-gestoert?ref=rss>`_

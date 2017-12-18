@@ -1,0 +1,20 @@
+news-2015-10-18
+#################
+:date: 2015-10-18 23:50
+:slug: news-2015-10-18
+:tags: News, 2015, Vegetarier, Grenze, Polizei, Deutschland, Oesterreich, Vorratsdatenspeicherung, Politik, USB
+:lang: de
+
+**IT/Technik**
+ - Passt auf wo ihr eure DNA `zur Probe hinschickt <http://science.slashdot.org/story/15/10/17/189208/beware-fbi-other-agencies-might-go-after-your-voluntary-dna-records?utm_source=rss1.0mainlinkanon&utm_medium=feed>`_
+ - Red Hat will Ansible `kaufen <http://www.golem.de/news/open-source-framework-red-hat-will-ansible-fuer-100-millionen-dollar-kaufen-1510-116948.html>`_
+ - IBM gewaehrt `China einblick in Quellcode <http://tech.slashdot.org/story/15/10/16/1357241/ibm-permits-china-to-review-source-code?utm_source=rss1.0mainlinkanon&utm_medium=feed>`_ damit sie in China expandieren koennen
+ - USB-Stick `killt <http://it.slashdot.org/story/15/10/15/1335205/usb-killer-20-a-harmless-looking-usb-stick-that-destroys-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed>`_ den ganzen Rechner
+
+**Politik**
+ - Deutsche Polizeigewerkschaft `fordert Grenzzaun zu Oesterreich <http://derstandard.at/2000024069554/Deutsche-Polizeigewerkschaft-fuer-Grenzzaun-zu-Oesterreich?ref=rss>`_
+ - Vorratsdatenspeicherung in Deutschland `fix <http://motherboard.vice.com/de/read/twix-statt-raider-vorratsdatenspeicherung-ist-beschlossene-sache-147>`_
+
+**FUN**
+ - `Anscheinend <http://www.vouchercodespro.co.uk/blog/drunk-vegetarians-eating-meat>`_ essen sehr viel Vegetarier Fleisch wenn sie betrunken sind.
+ - US Navy unterrichtet wieder am `Sextanten <http://www.heise.de/-2845200>`_ weil GPS unsicher ist

@@ -1,0 +1,22 @@
+news-2015-09-17
+#################
+:date: 2015-09-17 20:50
+:slug: news-2015-09-17
+:tags: News, 2015, 
+:lang: de
+
+**IT/Technik**
+ - AT&T hat eine `Belohnung von 250.000 USD ausgesetzt <http://www.nbcbayarea.com/news/local/ATT-Offers-250000-Reward-for-Information-on-Fiber-Vandalism-in-Livermore-327849911.html>`_ 
+ - Anscheinend wurde der PGP Schluessel von John Young `kompromitiert <http://www.cryptome.org/>`_. Die Frage ist nur wie und ob das nicht generell alles gehacked wurde...
+ - Das `Engelsystem des CCC fuer die Fluechtlingshilfe <https://blog.mayflower.de/5343-Das-Engelsystem-Engel-helfen-Fluechtlingen.html>`_
+ - `Luftschiffe werden wieder aktuell <http://www.golem.de/news/aeroscraft-ml866-aeros-baut-grosses-transportluftschiff-1509-116303.html>`_
+ - `Dell Verkauft in China 42 Prozent Linux-Rechner <http://www.golem.de/news/neokylin-dell-verkauft-in-china-42-prozent-linux-rechner-1509-116302.html>`_ Raubkopierer?!
+ - ...Kabel eingesteckt... `nix geht mehr <http://thenextweb.com/insider/2015/09/07/this-hilarious-cisco-fail-is-a-network-engineers-worst-nightmare/>`_
+
+**Gesundheit**
+ - `Karlsberg ruft Bier wegen Verunreinigungen zurrueck <http://orf.at/stories/2298899/>`_
+
+**Welt**
+ - `Bilderserie ueber Mauern und Zaeune <http://www.nzz.ch/international/bildstrecke/mauern-und-zaeune-1.18416065>`_
+ - `Foto <http://i.imgur.com/M4eWTKl.jpg>`_ eines Fluechtlingslager in Jordanien.
+

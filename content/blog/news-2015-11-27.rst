@@ -1,0 +1,30 @@
+news-2015-11-27
+#################
+:date: 2015-11-27 14:50
+:slug: news-2015-11-27
+:tags: News, 2015, Blue Origin, Rakete, Benchmark, Performance, Praesentation, Windows, Jubilaeum, Deutschland, BND, IT-Gipfel, Frankreich, Terror, Vorratsdatenspeicherung, Staatsschutz, AKVorrat, Petition, Vorarlberg, Strassenzeitung, marie, Klimaerwaermung, NASA 
+:lang: de
+
+**IT/Technik**
+ - Blue Origin `landed Raketenstufe <http://www.golem.de/news/raumfahrt-blue-origin-landet-raketenstufe-1511-117613.html>`_
+ - Folien zum Thema `Benchmark- und Performancemessung <http://www.brendangregg.com/Slides/QCon2015_Broken_Performance_Tools.pdf>`_ via fefe
+ - 30 Jahre `Windows <http://heise.de/-2953258>`_ auweiha!
+
+**Politik**
+ - Die Deutsche Regierung hat wohl den `Ueberblick der ausgestellten Tarnpapiere verloren <https://netzpolitik.org/2015/tarnidentitaeten-ahnungslosigkeit-der-bundesregierung-und-doppeltarnung-von-us-geheimdienstlern-beim-bnd/>`_
+ - Der IT-Gipfel in Deutschland ist `der "helden Gipfel" <http://heise.de/-2980126>`_, schlimmer als wenn ITler ueber Landwirtschaft reden... `noch ein Artikel dazu <http://www.golem.de/news/it-gipfel-2015-merkel-warnt-vor-zu-viel-datenschutz-in-europa-1511-117541.html>`_
+ - Da die aktuelle Gesetzeslage in Frankreich nicht ausreicht um Terror zu vernichten, werden nochmal `Die Sicherheitsgesetze verschaerft <http://heise.de/-2957488>`_ - Die haben die uebrigens schon laenger die  (von unseren Politikern geforderte) Vorratsdatenspeicherung!
+ - Die Briten wollen `eine Vorratsdatenspeicherung von 12 Monaten <http://www.heise.de/tp/artikel/46/46429/1.html>`_
+ - Petition des AKVorrat gegen das geplante `Staatsschutzgesetz <https://www.staatsschutz.at/>`_
+
+**Vorarlberg**
+ - Vorarlberg bekommt eine `Strassenzeitung <http://vorarlberg.orf.at/news/stories/2744393/>`_
+
+**Terror**
+ - Frueher `war es nicht besser <https://pbs.twimg.com/media/CURNSVsXAAAZ97c.jpg>`_ 
+ - lesenserter `Artikel <http://derstandard.at/2000026111331/Wir-sollen-uns-fuerchten?ref=rss>`_
+ - Woher `tweeten die ISIS Unterstuetzer <http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/2015/11-overflow/20151116_isis_0.jpg>`_
+
+**Umwelt/Natur**
+ - Der letze Oktober war der `waermste seit Beginn der Aufzeichnungen <http://scienceblogs.com/gregladen/2015/11/16/nasa-reports-astonishing-uptick-in-surface-temperature/>`_
+ - Die WMO (Weltorganisation fuer Meteorologie) `warnt vor El Nino <http://science.orf.at/stories/1764619>`_

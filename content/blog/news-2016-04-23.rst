@@ -1,0 +1,12 @@
+news-2016-04-23
+#################
+:date: 2016-04-23 12:53
+:slug: news-2016-04-23
+:tags: News, 2016, Bodenampeln, Augsburg, Pfefferspray
+:lang: de
+
+
+**Kurioses**
+ - `Augsburg testet Bodenampeln <http://heise.de/-3180247>`_
+ - `US-Uni zahlt 175.000 US-Dollar für Suchmaschinenoptimierung <http://heise.de/-3174781>`_
+

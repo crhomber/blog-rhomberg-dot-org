@@ -1,0 +1,25 @@
+news-2015-08-27
+#################
+:date: 2015-08-27 20:50
+:slug: news-2015-08-27
+:tags: News, 2015, 
+:lang: de
+
+**IT/Technik**
+ - `Jemand hat ein Batch-file zur deaktivierung der "call-home-features" von Windows erstellt (habs nicht getestet!) <https://github.com/trcyberoptic/WindowsLies>`_
+ - `Die Aluhut-Fraktion hatte wieder mal recht <https://netzpolitik.org/2015/zeit-online-erklaert-was-genau-ist-die-nsa-spionagesoftware-xkeyscore-und-was-will-der-verfassungsschutz-damit/>`_. Ich bin gespannt, wie viele Meldungen es noch braucht, bis der breiten Masse mal die Augen geoeffnet werden. Auch der `orf <http://orf.at/stories/2295443/>`_ hat berichtet.
+ - Es gibt jetzt `Klarstellung <http://www.heise.de/newsticker/meldung/Windows-10-Upgrades-fuer-Home-sofort-fuer-Pro-nach-vier-Monaten-2791858.html?wt_mc=rss.ho.beitrag.atom>`_ wie das mit den Updates bei Windows 10 laufen wird - theoretisch...
+
+**Gesundheit**
+ - `Anscheinend <http://orf.at/stories/2295391/>`_ viel Alluminium in Laugengebaeck.
+ - Nur Bio-Gemuese besteht `Pestizidtest <http://derstandard.at/2000020285293/Obst-und-Gemuese-aus-Bio-Anbau-besteht-Pestizidtest?ref=rss>`_
+
+**Politik**
+ - `Visualisierung <http://motherboard.vice.com/de/read/wie-viel-radioaktives-material-liegt-gerade-wo-in-deutschland-herum>`_ des radioaktiven Materials in Deutschland.
+ - `Spionagedelphin verhaftet <http://www.rt.com/news/312858-hamas-israel-spying-dolphins/>`_
+ - `Teststrecken fuer autonome Autos in Oesterreich <http://derstandard.at/2000021354958/Oesterreich-bekommt-2016-Teststrecken-fuer-selbstfahrende-Autos?ref=rss>`_
+
+**Welt**
+ - `Lernt schon mal schwimmen <http://orf.at/stories/2295463/>`_ - der Meeresspiegel wird steigen!
+ - `Animation aller Kernwaffenexplosionen <http://motherboard.vice.com/de/read/eine-bedrueckende-visualisierung-zeigt-alle-atombombenexplosionen-der-geschichte-887>`_
+

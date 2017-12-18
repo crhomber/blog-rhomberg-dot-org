@@ -1,0 +1,13 @@
+news-2016-02-19
+#################
+:date: 2016-02-19 21:30
+:slug: news-2016-02-19
+:tags: News, 2016, Apple, John McAfee, Bernardino, Drogen, Kofi Annan
+:lang: de
+
+
+**IT/Technik**
+ - John McAfee will das `iPhone von Bernardino hacken <http://hothardware.com/news/john-mcafee-offers-to-decrypt-san-bernardino-iphone-for-fbi>`_
+
+**Politik**
+ - Kofi Annan fordert `lagalen Zugang zu Drogen <http://derstandard.at/2000031447379/Kofi-Annan-fordert-legalen-Zugang-zu-Drogen>`_ 

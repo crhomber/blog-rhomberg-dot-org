@@ -1,0 +1,17 @@
+News KW25 2014
+##############
+:date: 2014-06-19 10:58
+:slug: news-25-04
+:tags: News, 2014, NSA, Politik, SSD, Nokia, Google, Amazon, Synology
+
+**IT/Technik**
+ - `SSDs sind robuster als angenommen <http://www.heise.de/newsticker/meldung/SSDs-sind-oft-robuster-als-versprochen-2234897.html/from/atom10?wt_mc=rss.ho.beitrag.atom/>`_
+ - `Nokia zahlte Millionen an Erpresser <http://www.heise.de/newsticker/meldung/Symbian-Nokia-zahlte-Millionen-an-Erpresser-2233619.html/from/atom10?wt_mc=rss.ho.beitrag.atom/>`_
+ - `Hacker schürften 500 Millionen Dogecoins auf Synology NAS-Geräten <http://www.heise.de/newsticker/meldung/Hacker-schuerft-500-Millionen-Dogecoins-auf-NAS-Geraeten-2233943.html/from/atom10?wt_mc=rss.ho.beitrag.atom/>`_
+ - `Google-Ballon löste Großeinsatz aus <http://derstandard.at/2000002168830/Google-Ballon-loeste-in-Neuseeland-Grossalarm-aus?ref=rss>`_
+ - `Hacker bauen NSA-Tools nach <http://www.heise.de/newsticker/meldung/Hacker-bauen-Spionage-Tools-der-NSA-nach-2235339.html/from/atom10?wt_mc=rss.ho.beitrag.atom>`_
+ - `Cloud-Computing macht Spass ;-) <http://www.heise.de/newsticker/meldung/DDoS-Angriff-zwingt-Hosting-Anbieter-Code-Spaces-zum-Aufgeben-2235133.html/from/atom10?wt_mc=rss.ho.beitrag.atom>`_
+ - `Weltweit mehr als 400 US-Drohnen abgestürzt <http://www.heise.de/newsticker/meldung/Weltweit-mehr-als-400-US-Drohnen-abgestuerzt-2236244.html/from/atom10?wt_mc=rss.ho.beitrag.atom>`_
+
+**Politik**
+ - `Der Spiegel beschreibt was die NSA so in Deutschland macht <http://www.spiegel.de/netzwelt/netzpolitik/nsa-dokumente-von-snowden-enthuellen-standorte-in-deutschland-a-975611.html>`_

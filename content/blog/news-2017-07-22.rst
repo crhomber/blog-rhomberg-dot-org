@@ -1,0 +1,19 @@
+news-2017-07-22
+#################
+:date: 2017-07-22 12:30
+:slug: news-2017-07-22
+:tags: News, 2017,
+:lang: de
+
+
+**IT/Technik**
+ - `Google wirft WoSign und StartCom aus Chrome raus <https://security.googleblog.com/2017/07/final-removal-of-trust-in-wosign-and.html>`_
+ - Microsoft hat wohl einen Weg gefunden, die sinkenden PC-Verkaeufe zu `erhoehen <http://www.pcworld.com/article/3209705/windows/confirmed-windows-10-will-cut-off-devices-with-older-cpus.html>`_
+ - Let's Encrypt will `Wildcard-Zertifikate <https://heise.de/-3766804>`_ anbieten
+
+**Vorarlberg**
+ - Artikel im `standard <http://derstandard.at/2000060877172/Lustenau-Zwischen-Einkaufsboom-und-Verkehrschaos-und>`_ ueber die Verkehrssituation in Lustenau
+
+**Video**
+ - Produktion bei `Mercedes <https://www.youtube.com/watch?v=Atb0Fy63O2w>`_
+ - Gollum `list Trump tweets <https://www.youtube.com/watch?v=64mWOoj68qo>`_

@@ -1,0 +1,15 @@
+news-2015-09-20
+#################
+:date: 2015-09-20 18:50
+:slug: news-2015-09-20
+:tags: News, 2015, Symantec, Zertifikate, TLS, CA, Linux, Microsoft, Switches, SDN,
+:lang: de
+
+**IT/Technik**
+ - `Symantec stellte falsches Zertificat fuer google.com aus <http://www.golem.de/news/certificate-transparency-symantec-stellt-falsches-google-zertifikat-aus-1509-116403.html>`_
+ - `Microsoft stellt eigene Linux-basierte Switches vor <http://www.heise.de/newsticker/meldung/Azure-Cloud-Switch-Microsoft-baut-an-einem-eigenen-Linux-2821412.html?wt_mc=rss.ho.beitrag.atom>`_
+
+**Politik**
+ - `USA und China wollen Vertrag zur Begrenzung von Cyberangriffen <http://www.heise.de/newsticker/meldung/USA-und-China-wollen-Vertrag-zur-Begrenzung-von-Cyberangriffen-2822083.html?wt_mc=rss.ho.beitrag.atom>`_
+ - `Video der Deutschen Bundeswehr zum Cyberwar <https://www.youtube.com/watch?v=ITTKEuJsSnA>`_
+

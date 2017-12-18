@@ -1,0 +1,32 @@
+News KW27 2014
+##############
+:date: 2014-07-06 15:58
+:slug: news-27-04
+:tags: News, 2014, Umwelt, USA, Computerspiel, Google, GTA, Facebook, Werbung, Kirche, Exorzismus, SPÖ, ÖVP, Glonass, Russland, Kuba, TOR
+
+**IT/Technik**
+ - `Nach 13 Jahren wird ein privates Computerspielprojekt fertig <http://derstandard.at/2000002398538/13-Jahre-fuer-ein-Videospiel-Wie-ein-Junge-seinen-Traum>`_
+ - `Laut Google machen unerfahrene Programmierer nicht mehr Fehler als erfahrene <http://www.golem.de/news/google-research-warum-kompiliert-das-nicht-1406-107553.html>`_
+ - `Traile von GTA V neu verfilmt <http://derstandard.at/2000002536010/Fans-verfilmen-GTA-5-Trailer-in-Madrid>`_
+ - `Facebook ist wohn schon länger experimentierfreudig <http://heise.de/-2243893>`_
+ - `HP verkauft "fanless" Rechner trotz eingebautem Lüfter <http://www.golem.de/news/mini-pc-hps-passive-chromebox-hat-einen-luefter-1407-107674.html>`_
+
+**Politik**
+ - `Das Finanzamt von Bayern will Österreich klagen <http://derstandard.at/2000002423083/Bayern-droht-Oesterreich-wegen-Hypo-mit-Sammelklage>`_
+ - `Neuwahlen - bitte! <http://derstandard.at/2000002713021/SPOe-und-OeVP-setzen-Hick-Hack-fort>`_
+
+**Religion**
+ - `Vatikan erkennt Exorzisten als Teil des kirchlichen Kanons an <http://derstandard.at/2000002627605/Vatikan-anerkennt-Exorzisten-als-Teil-des-kirchlichen-Kanons>`_
+
+**Österreich**
+ - `Schüler- und Lehrerdaten werden künftig zentral gespeicher <http://derstandard.at/2000002347959/Schueler-und-Lehrerdaten-werden-kuenftig-zentral-gespeichert>`_ hm... war da nicht mal ein Problem?!
+ - `Leute, schaltet eure TOR-Exit Nodes ab! <https://network23.org/blackoutaustria/2014/07/01/to-whom-it-my-concern/>`_ - Krasse Scheisse!
+ - `Zahl der Verkehrstoten in Vorarlberg stark gestiegen <http://vorarlberg.orf.at/news/stories/2655561/>`_
+
+**Europa**
+ - `Die Türkei baut ein neues Atomkraftwerk <http://derstandard.at/2000002404148/Atomkraft-fuer-den-tuerkischen-Traum>`_
+
+**Welt**
+ - `Kuba bietet den Russen an ihre Glonass Station in Kuba aufzubauen <http://www.themoscowtimes.com/business/article/cuba-agrees-to-host-russian-glonass-navigation-stations/502171.html>`_ via `Fefe <http://blog.fefe.de/?ts=ad51c661>`_
+ - `In Ecuador gibts ein neues Wassergesetz <https://amerika21.de/2014/06/102783/wassergesetz-ecuador>`_
+ - `In den USA gibts einen neuen Trend "Umweltverschmutzer" <http://blog.fefe.de/?ts=ad47efed>`_ - Manche Vorurteile gibts wohl nicht ohne Grund....

@@ -1,0 +1,29 @@
+news-2017-04-18
+#################
+:date: 2017-04-18 08:30
+:slug: news-2017-04-18
+:tags: News, 2017, DEA, TOR, NASA, Amazon, Adblocker, Sicherheit, Nordkorea, Herz, Gesundheit, Lustenau, Vorarlberg, Chaosradio, CCC, Glasfaser, Wetter
+:lang: de
+
+
+**IT/Technik**
+ - `Daten helfen DEA Dealer zu schnappen <https://heise.de/-3686489>`_
+ - `NASA veroeffentlicht Satelittenbilder der Erde in der Nacht <https://earthobservatory.nasa.gov/Features/NightLights/>`_
+ - `Amazon akzeptiert in USA auch Bargeld <https://heise.de/-3674985>`_ - viele Amerikaner bekommen anscheinend keine Kreditkarten mehr!
+ - `Adblocker sind digitale Selbstverteidigung <https://www.kuketz-blog.de/kommentar-adblocker-sind-digitale-selbstverteidigung/>`_
+
+**Politik**
+ - `Spekulationen zur Situation in Nordkorea <https://medium.com/@frank_rieger/some-wild-speculation-6fbcf856007d>`_
+
+**Medizin**
+ - `AI erkennt Herzinfarkte besser <http://www.digitaltrends.com/health-fitness/ai-algorithm-heart-attack/>`_
+
+**Vorarlberg**
+ - `Blechkolonne durch Lustenau - Wer ist schuld? <http://vorarlberg.orf.at/news/stories/2831873/>`_
+
+**Podcast**
+ - `Chaosradio zum Glasfaserausbau (in Deutschland) <http://chaosradio.ccc.de/cr233.html>`_
+
+**Video**
+ - `Honest Government Advert <https://www.youtube.com/watch?v=9DBf40a3tLc>`_
+ - `Wie funktioniert Wettervorhersage <https://www.youtube.com/watch?v=OAn_izPZZDE>`_

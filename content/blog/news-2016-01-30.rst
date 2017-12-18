@@ -1,0 +1,28 @@
+news-2016-01-30
+#################
+:date: 2016-01-30 12:33
+:slug: news-2016-01-30
+:tags: News, 2016, Bundestag, Hack, Russland, Polizeifunk, Toshiba, Akku, Brandgefahr, Auto, Audio, Europol, Global Hawk, Drohne, Deutschland, Glasfaser, Patientendaten, Zika, Virus, El Salvador, Skype, Frauenhofer ESK, Waffenhandel, Irak, Temperatur, Zug, Zins, Steuern, Schweiz, ISS
+:lang: de
+
+**IT/Technik**
+ - Anscheinend kann man mit einem billgen chinesischen Handfunkgeraet den `US Polizeifunkg abhoeren <https://github.com/travisgoodspeed/md380tools>`_
+ - Toshiba `tauscht Akkus von vielen Notebooks <http://heise.de/-3087999>`_
+ - Auto via Audiofile `gehackt <http://heise.de/-3087160>`_
+ - Eine US Bude hat sechs Festplatten mit ca 950.000 Patientendaten `verloren <http://phx.corporate-ir.net/phoenix.zhtml?c=130443&p=irol-newsArticle_Print&ID=2132066>`_
+ - Frauenhofer ESK `stuft Skype als Sicherheitsrisiko fuer Firmen ein <http://heise.de/-3082090>`_ - klarer Fall von told you so!
+ - Elektro Autos `brauchen mehr Strom als von den Herstellern angepriesen <http://heise.de/-3081667>`_ - auch ohne Abgasskandal!
+
+**Politik**
+ - IT-Angriff aus deutschen Budestag angeblich durch `russischen Nachrichtendienst <http://heise.de/-3088072>`_
+ - Europol fahndet `online <https://www.eumostwanted.eu/de>`_ nach den meistgesuchten Verbrechern
+ - US-Drohne `Global Hawk ueberquert Deutschland <http://heise.de/-3086823>`_, es gibt auch eine Karte des `Flugkorridors <http://www.heise.de/tp/artikel/47/47228/47228_1.jpg>`_
+ - In Deutschland ist das verlegen von Glasfaser bei Strassen kuenftig `pflicht <http://www.golem.de/news/breitbandausbau-verlegung-von-glasfaser-wird-zur-pflicht-1601-118780.html>`_
+ - In El Salvador bittet man Frauen bitte `nicht vor 2018 schwanger zu werden <https://www.washingtonpost.com/world/the_americas/as-zika-virus-spreads-el-salvador-asks-women-not-to-get-pregnant-until-2018/2016/01/22/1dc2dadc-c11f-11e5-98c8-7fab78677d51_story.html>`_ - es geht um das Zika Virus
+ - Du suchst ein Bundeswehrgewehr zum guenstigen Preis? Kein Problem! `Schau im Nordirak vorbei <https://www.tagesschau.de/ausland/peschmerga-163.html#>`_ dort gibts die Teile aufm Flohmarkt
+ - Im schweizer Kanton Zug zahlt man jetzt `keine Verzugszinsen auf seine Steuern mehr <http://orf.at/stories/2318364/2318368/>`_, bisher bekam man noch einen Skonto wenn man frueher bezahlt hat, Grund ist der Niedrigzins.
+ - Ueber 23.000 US Bomben im Jahr 2015 ueber muslimischen Laendern `abgeworfen <http://www.heise.de/tp/artikel/47/47147/1.html>`_
+
+**Umwelt/Natur**
+ - 2015 war das heisseste Jahr `seit Beginn der Aufzeichnungen 1880 <http://derstandard.at/2000029440684/2015-mit-Abstand-heissestes-Jahr-seit-Beginn-der-Aufzeichnungen?ref=rss>`_
+ - Erste Blume auf der ISS `blueht <http://heise.de/-3073001>`_

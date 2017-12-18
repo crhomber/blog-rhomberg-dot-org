@@ -1,0 +1,16 @@
+news-2017-08-19
+#################
+:date: 2017-08-19 14:30
+:slug: news-2017-08-19
+:tags: News, 2017, Raspberry Pi, Vorarlberg, Adblocking, CEO Fraud, Gardena
+:lang: de
+
+
+**IT/Technik**
+ - `Raspbian auf Debian Strech aktualisiert <https://www.raspberrypi.org/blog/raspbian-stretch/>`_
+ - `OLG Muenchen - Adblocking ist legal <https://heise.de/-3806291>`_
+
+**Vorarlberg**
+ - `CEO Fraud auch in Vorarlberg <http://vorarlberg.orf.at/news/stories/2860580/>`_ - hatte auch schon einen Fall bei nem Kunden, ist jetzt allerding schon ca 1 Jahr her
+ - Hat wer `Gardena SMART Zeugs? <https://www.golem.de/news/gardena-smart-garden-serverabsturz-macht-den-garten-dumm-1708-129495.html>`_
+

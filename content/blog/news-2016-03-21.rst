@@ -1,0 +1,18 @@
+news-2016-03-21
+#################
+:date: 2016-03-21 12:30
+:slug: news-2016-03-21
+:tags: News, 2016, Lavabit, Snowden, FBI, TSA, multitool, hack, airport, safety, AMEX, Ransomware, NYT, BBC, Werbung
+:lang: de
+
+
+**IT/Technik**
+ - Lavabit sollte das Postfach von Snowden `herausgeben <https://netzpolitik.org/2016/lavabit-sollte-postfach-von-snowden-herausgeben/>`_
+ - TSA compliant `multitool <https://boingboing.net/2016/03/17/make-a-tsa-compliant-mult.html>`_
+ - AMEX (American Express) `informiert Kunden <https://oag.ca.gov/ecrime/databreach/reports/sb24-60413>`_  ueber einen Einbruch und Datenmissbrauch im Dezember 2013
+ - BBC und New Yort Times `verteilten Ransomware <http://www.theguardian.com/technology/2016/mar/16/major-sites-new-york-times-bbc-ransomware-malvertising>`_ - ueber die Werbung...nix neues...
+ - BSI stellt `Leitfaden zum Umgang mit Erpressungs-Trojanern <https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Ransomware.html>`_ zur Verfuegung
+ - Video: `Installation einens Skimmers <https://www.youtube.com/watch?v=y83ZgzuFBSE>`_
+
+**Politik**
+ - Oeffentliche Hand gab 2015 `rund 188 Mille fuer Werbung aus <http://derstandard.at/2000032961841/Oeffentliche-Hand-gab-2015-rund-188-Millionen-Euro-fuer-Werbung?ref=rss>`_

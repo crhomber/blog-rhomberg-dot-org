@@ -1,0 +1,22 @@
+News KW40 2014
+##############
+:date: 2014-10-05 05:25
+:slug: news-40-04
+:tags: News, 2014, BND, NSA, Deutschland, Geheimdienst, JPMorgan, Hack, Hong Kong, Vorarlberg, Landtag, Grüne, ÖVP  Notebook, Touch, Windows, 
+:lang: de
+
+**IT/Technik**
+ - `JPMorgan - Hacked <http://www.bloomberg.com/news/2014-10-02/jpmorgan-says-data-breach-affected-76-million-households.html>`_
+ - `Entwicklung von Notebooks mit Toch-Displays vorerst eingestellt - na endlich! <http://www.golem.de/news/entwicklung-vorerst-eingestellt-notebooks-mit-touch-displays-sind-nicht-gefragt-1409-109530.html>`_
+
+
+**Vorarlberg/Region**
+ - `Schwarz-Grün dürfte fix sein <http://vorarlberg.orf.at/news/stories/2671949/>`_
+
+**Politik**
+ - `Wie der BND der NSA Zugang zum Internetknoten DE-CIX schenkte` <https://netzpolitik.org/2014/eikonal-wie-der-bnd-der-nsa-zugang-zum-internetknoten-de-cix-schenkte/>`_
+ - `Polizei in USA verteilte Malware unter dem Deckmantel "Kinderschutz" <https://www.eff.org/deeplinks/2014/09/computercop-dangerous-internet-safety-software-hundreds-police-agencies>`_
+
+**Welt**
+ - `In Hong Kong sind mal ein paar auf die Strasse gegangen (Video) <http://www.youtube.com/watch?v=Q919bQOThvM>`_
+

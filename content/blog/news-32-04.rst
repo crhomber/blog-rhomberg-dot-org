@@ -1,0 +1,21 @@
+News KW32 2014
+##############
+:date: 2014-08-10 20:25
+:slug: news-32-04
+:tags: News, 2014, Google, Yahoo, PGP, HTTP, Ubuntu, Security, SAP, Apple, Tor, Synology, DNS, Österreich, Zensur
+:lang: de
+
+**IT/Technik**
+ - `Yahoo und Google wollen PGP in ihre Webmails bringen <http://www.golem.de/news/e-mail-ende-zu-ende-verschluesselung-fuer-yahoo-mail-1408-108427.html>`_
+ - `HTTP/2 koennte bald fertig sein <http://www.golem.de/news/e-mail-ende-zu-ende-verschluesselung-fuer-yahoo-mail-1408-108427.html>`_
+ - `Ubuntus Lock-Screen verliert Tastatureingaben <http://heise.de/-2283211>`_
+ - `Googles Lobbyausgaben: schon 9,3 Millionen US-Dollar in 2014 <https://netzpolitik.org/2014/googles-lobbyausgaben-schon-93-millionen-us-dollar-in-2014/>`_
+ - `Verschlüsselungstrojaner attackiert Synology-Speichersysteme <http://heise.de/-2282625>`_
+ - `Russland will Zugriff auf Quellcode von Apple und SAP <http://heise.de/-2280695>`_
+ - `Erfolgreicher Angriff auf Tor Hidden Services <http://www.golem.de/news/anonymisierung-projekt-bestaetigt-angriff-auf-tors-hidden-services-1407-108239.html>`_
+ - `Virenscanner machen Rechner unsicher <http://www.golem.de/news/security-antivirenscanner-machen-rechner-unsicher-1407-108199.html>`_
+ - `DNS-Sperren in Österreich <http://derstandard.at/2000003659068/Netzsperren-Oesterreichische-Provider-muessen-Pirate-Bay-blocken>`_
+
+**Welt**
+ - `Irakische Kampf-Cessna <http://derstandard.at/2000004014320/Iraks-kaum-vorhandene-Luftwaffe>`_
+

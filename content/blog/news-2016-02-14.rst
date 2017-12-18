@@ -1,0 +1,23 @@
+news-2016-02-14
+#################
+:date: 2016-02-14 06:59
+:slug: news-2016-02-14
+:tags: News, 2016, Zikia, Virus, Monsanto, Brasilien, Sicherheitskonferenz, Syrien, IS, Internet Archive, Windows 3.1, AMD, CERN, Frankreich, Lenbensmittel, Solarenergie, Marokko
+:lang: de
+
+Ich liege seit ca. einer Woche im Bett, somit hatte ich genug Zeit wieder mal einige spannende Artikel zu lesen,
+hier eine Auswahl - bildet euch, wie immer, eure eigene Meinung!
+
+
+**IT/Technik**
+ - Im Internet Archive gibts jetzt `Windows 3.1 inkl. vieler Software von damals <https://archive.org/details/softwarelibrary_win3_showcase>`_ - viel Spass
+ - Ein CERN Mitarbeiter hat Infos zu einem neuen 32 Kerner von AMD `praesentiert <http://www.golem.de/news/server-prozessor-cern-bestaetigt-zen-opteron-mit-32-kernen-1602-119043.html>`_ - das wird spannend!
+ - In Marokko wurde das groesste Solarkraftwerk `eroeffnet <http://heise.de/-3095257>`_
+
+**Politik**
+ - `Interessanter Artikel zur Sicherheitskonferenz in Muenchen <http://www.heise.de/tp/artikel/47/47393/1.html>`_ 
+ - `Live-Blog zur Sicherheitskonferenz in Muenchen <https://www.br.de/nachrichten/inhalt/sicherheitskonferenz-muenchen-2016-100.html>`_
+ - Frankreich verbeitet Supermaerkten `Lebensmittel zu vernichten oder wegzuwerfen <http://www.theguardian.com/world/2016/feb/04/french-law-forbids-food-waste-by-supermarkets>`_ - Lebensmittel die noch geniessbar sind muessen jetzt gespendet werden!
+
+**Umwelt/Natur**
+ - Anscheinend geht es bei der ganzen Zika-Virus Geschichte um `vergiftetes Trinkwasser <http://www.examiner.com/article/argentine-physicians-claim-monsanto-larvicide-is-true-cause-of-microcephaly>`_ und die Spuren deuten laut einer Studie in Richtung Monsanto.

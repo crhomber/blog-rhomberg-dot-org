@@ -1,0 +1,21 @@
+news-2015-12-30
+#################
+:date: 2015-12-30 20:00
+:slug: news-2015-12-30
+:tags: News, 2015, Fokushima, Blei-Akku, US-Army, USA, biologische Kriegsfuehrung, Juniper, Backdoor, CERT, Mikrofon, Gluehbirne, Wanze, Erdogan, Meinungsfreiheit, Lichtverschmutzung, Drohne, Sport, Hirscher, Atombomben 
+:lang: de
+
+**IT/Technik**
+ - Bei Juniper Equipment `gibts <http://www.cert.at/services/blog/20151222153859-1646.html>`_ `Backdoors <https://www.imperialviolet.org/2015/12/19/juniper.html>`_
+ - Es gibt jetzt Gluehbirnen `mit Mikrofon <http://heise.de/-3056853>`_ Shit!
+ - Interessanter Artikel zum Thema `Lichtverschmutzung <http://orf.at/stories/2315499/2315500/>`_
+ - Hirscher beinahe von Drohne `erschlagen worden <http://www.sueddeutsche.de/sport/drohnenabsturz-in-madonna-di-campiglio-der-pilot-ist-immer-weiter-reingeflogen-ein-wahnsinn-1.2794868>`_
+ - Kleinkind verliert Auge durch `Drohne <http://heise.de/-3028349>`_
+
+**Politik**
+ - Erdogan mags nicht, wenn man ihn `beleidigt <http://derstandard.at/2000028199060/Tuerkischer-Jugendlicher-wegen-Erdogan-Kritik-in-Untersuchungshaft>`_
+ - Liste der geheimen Atombombenziele von 1956 `veroeffentlicht <http://www.heise.de/tp/news/Atombomben-auf-Ost-Berlin-3055232.html>`_
+
+**Umwelt/Natur**
+ - Blei-Akkus in Fukushima `verfaelschen Messdaten <http://www.heise.de/tp/artikel/46/46907/1.html>`_ 
+ - Operation `Sea-Spray <http://www.heise.de/tp/artikel/46/46725/1.html>`_

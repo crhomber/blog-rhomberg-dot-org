@@ -1,0 +1,15 @@
+news-2017-08-26
+#################
+:date: 2017-08-26 14:30
+:slug: news-2017-08-26
+:tags: News, 2017, Samsung, Migration, VW, Abgasskandal, Bundestrojaner
+:lang: de
+
+
+**IT/Technik**
+ - Samsung bietet jetzt Smartphones zur `Miete <https://heise.de/-3811780>`_ an -  Perfekt! Die haben somit das Update-Problem von Android geloest - geiler Schachzug!11!
+ - In den USA muss ein VW-Mitarbeiter wegen des Dieselskandals `drei Jahre in den Knast und 200k zahlen <http://derstandard.at/2000063179059/Drei-Jahre-Haft-fuer-VW-Ingenieur-in-USA>`_ - in der EU? SICHER NICHT!
+ - Der oberste Gerichtshof `warnt vor dem Bundestrojaner <derstandard.at/2000062938605/SicherheitspaketOberste-Gerichtshof-warnt-vor-Bundestrojaner>`_ - gut so!
+
+**Vorarlberg**
+ - Vorarlberg hat den `zweithoechsten Migrantenanteil <http://vorarlberg.orf.at/news/stories/2862021/>`_ von ganz AT...

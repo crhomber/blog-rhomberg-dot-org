@@ -1,0 +1,37 @@
+News KW39 2014
+##############
+:date: 2014-09-28 11:25
+:slug: news-39-04
+:tags: News, 2014, Syrien, USA, Barack Obama, BASH, Vorarlberg, XSS, DNS, Schadcode, Werbung, Mellental, Kleinkraftwerk, Coca Cola, Sägerbrücke, Dornbirn, efko, Bauern, Sanktionen, Russland, Polizei, Hochzeit, Finanzen, SPÖ, Atomkraft, Ego-Shootern, NEOS, NSA, Facebook 
+:lang: de
+
+**IT/Technik**
+ - `Die BASH ist wohl ziemlich verbuged <http://www.golem.de/news/shellshock-immer-mehr-luecken-in-bash-1409-109483.html>`_
+ - `TXT Records XSS <https://news.ycombinator.com/item?id=8336025>`_
+
+**Medien/Internet**
+ - `Hör auf dein Herz - sagt Coca Cola <http://www.hoeraufdeinherz.de>`_
+ - `Werbenetzwerke lieferten Schadcode aus <http://heise.de/-2400733>`_
+ - `Mitbewohner mittels Werbung auf Facebook in den Wahnsinn getrieben <http://mysocialsherpa.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/>`_
+ - `Wie ein Provider auf die Snowden Dokumente reagiert (Video) <https://firstlook.org/theintercept/2014/09/14/nsa-stellar/>`_
+
+**Vorarlberg/Region**
+ - `Hochzeit eskaliert nach Polizeieinsatz <http://vorarlberg.orf.at/news/stories/2670884/>`_
+ - `NEOS: Sechsstelliger Kredit für Wahlkampf <http://vorarlberg.orf.at/news/stories/2670385/>`_
+ - `Kleinkraftwerk sorft für Rechtsstreit <http://vorarlberg.orf.at/news/stories/2668028/>`_
+ - `Sägerbrücke in Dornbirn wird ab September umgebaut <http://vorarlberg.orf.at/news/stories/2668868/>`_
+ - `efko-Bauern vernichten Teile der Ernte <http://derstandard.at/2000005538962/efko-Bauern-vernichten-Teile-der-Ernte?ref=rss>`_
+
+**Politik**
+ - `Die SPÖ gibt Ego-Shootern Mitschuld am Jihadismus <http://derstandard.at/2000006071159/SPOe-Sicherheitssprecher-gibt-Ego-Shootern-Mitschuld-an-Jihadismus>`_
+**Gesellschaft**
+ - `Der NSA-Ausschuss in Deutschland dürfte wohl ziemlich sinnlos sein <http://blog.fefe.de/?ts=aadd83ec>`_
+ - SYRIA BECOMES THE 7TH PREDOMINANTLY MUSLIM COUNTRY BOMBED BY 2009 NOBEL PEACE LAUREATE
+
+**Welt**
+ - `Rostige Atommüll-Fässer in AKW Brunsbüttel gefunden <http://www.deutschlandfunk.de/akw-brunsbuettel-mehr-atommuell-faesser-rostig.1818.de.html?dram:article_id=298558>`_
+
+**Finanzen**
+ - `Negativzinsen für Einlagen <http://www.faz.net/aktuell/wirtschaft/unternehmen/banken-verlangen-strafzinsen-fuer-einlagen-von-unternehmen-13174154.html>`_
+ - `AKW Stade strahlt länger <http://www.taz.de/AKW-Stade-strahlt-laenger/!145784/>`_
+ - `Verirrte US-Piloten fragen in Polen nach dem Weg <http://www.spiegel.de/politik/ausland/notlandung-in-polen-hubschrauber-der-us-armee-verirren-sich-a-991109.html>`_

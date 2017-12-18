@@ -1,0 +1,13 @@
+news-2017-10-08
+#################
+:date: 2017-10-08 21:30
+:slug: news-2017-10-08
+:tags: News, 2017, Polizei, Austrialien, Disqus, Mozilla, Yahoo, Hack
+:lang: de
+
+**IT/Technik**
+ - Australische Polizei `betrieb Kinderpornoserver <https://www.theguardian.com/society/2017/oct/07/australian-police-sting-brings-down-paedophile-forum-on-dark-web>`_
+ - Disqus `gehackt <https://heise.de/-3852092>`_
+ - Mozilla fuehr `Spyware ein <https://heise.de/-3852129>`_
+ - Yahoo-hack war viel `umfangreicher als zuerst berichtet <https://heise.de/-3849303>`_
+

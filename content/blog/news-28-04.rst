@@ -1,0 +1,26 @@
+News KW28 2014
+##############
+:date: 2014-07-13 21:58
+:slug: news-28-04
+:tags: News, 2014, Indien, Google, CA, NSA, Open Data, Königswarte, Asyl, USA
+
+**IT/Technik**
+ - `Indische CA stellt falsche Zertifikate für Google aus <http://heise.de/-2252544>`_ `Microsoft wirft die CA raus <www.heise.de/newsticker/meldung/Microsoft-entzieht-Indischer-CA-das-Vertrauen-2255992.html>`_
+
+**Politik**
+ - `Zur Sicherheit tagt der NSA-Untersuchungsausschuss in Deutschland mit Musik <http://www.sueddeutsche.de/politik/nsa-untersuchungsausschuss-zur-sicherheit-musik-1.2031158>`_ via `Netzpolitik.org <https://netzpolitik.org/2014/nsa-untersuchungsausschuss-zur-sicherheit-musik/>`_
+
+
+**Österreich**
+ - `Interessante Artikel-Serie zur Überwachung durch das HNA <derstandard.at/2000002770626/Koenigswarte-Oesterreich-lauscht-bis-in-den-Nahen-Osten>`_
+ - `Open Data in Österreich <http://www.data.gv.at>`_ via `derStandard <derstandard.at/2000002790339/Open-Data-Parlament-veroeffentlicht-erste-Datensaetze>`_
+
+**Europa**
+ - `Die niederländische Polzei will Backdoors für Drohnen <http://www.nrc.nl/nieuws/2014/07/07/politie-wil-drones-uit-de-lucht-kunnen-halen/>`_ 
+ - `Im Gefängnis mit der Familie?! <derstandard.at/2000002730946/Daenemark-Mit-dem-fuenfjaehrigen-Sohn-im-Gefaengnis>`_
+ - `Ein Brite muss ins Gefängnis, weil er anscheinend keine gültigen Krypto-Keys rausgegeben hat <http://www.theregister.co.uk/2014/07/08/christopher_wilson_students_refusal_to_give_up_crypto_keys_jail_sentence_ripa/>`_ via `Fefe <http://blog.fefe.de/?ts=ad408201>`_
+ - `Asylanträge in Europa - Infografik <derstandard.at/2000002916227/So-viele-Asylantraege-werden-in-den-Laendern-Europas-gestellt>`_
+ - `Die Marine in Deutschland hat eine Drohne verloren, diese wurde jetzt gefunden, doch der Finder verlangt Finderlohn <www.heise.de/newsticker/meldung/Unterwasser-Drohne-der-Marine-gefunden-Streit-um-Finderlohn-2253758.html>`_
+
+**Welt**
+ - `Handies und Laptops müssen bei der Einreise in die USA betriebsbereit sein <http://www.golem.de/news/sicherheitsbestimmung-leerer-akku-kein-flug-in-die-usa-1407-107681.html>`_

@@ -1,0 +1,13 @@
+news-2017-09-01
+#################
+:date: 2017-09-01 11:30
+:slug: news-2017-09-01
+:tags: News, 2017, 
+:lang: de
+
+**IT/Technik**
+ - St. Jude Medical Herzschrittmacher muessen `gepatched <https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm573669.htm>`_ werden
+ - Consumer-Platten sind anscheinend doch nicht `schlechter <https://www.golem.de/news/backblaze-vebraucher-hdds-noch-nicht-schlechter-als-enterprise-modelle-1708-129782.html>`_ als die teureren Enterprise-Modelle!
+
+**Welt**
+ - Die Region Aachen verteilt `Jod-Tabletten <https://heise.de/-3818157>`_ - weil man Angst vom belgischen AKW Tihane hat.

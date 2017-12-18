@@ -1,0 +1,29 @@
+news-2016-04-07
+#################
+:date: 2016-04-07 21:30
+:slug: news-2016-04-07
+:tags: News, 2016, ENISA, Produkthaftung, Softwareentwicklung, Samba, Windows, VNC, Wasserversorgung, Infrastruktur, Hack, Oracle, Google, Allianz, Versicherung, Atomenergie, Lebensmittel, Vorarlberg, Panama Papers, Killerdrone, Drone
+:lang: de
+
+
+**IT/Technik**
+ - `ENISA-Chef fordert Produkthaftung fuer Hard- u. Software <http://heise.de/-3140943>`_
+ - `Samba-Entwickler warnen vor Luecke auch in Windows <http://heise.de/-3148379>`_
+ - Hacker haben Parameter der `Wasserversorgung <https://tech.slashdot.org/story/16/03/22/1728210/hackers-modify-water-treatment-parameters-by-accident?utm_source=rss1.0mainlinkanon&utm_medium=feed>`_ veraendert
+ - `VNC-Roulette – was wollen Sie fernsteuern? <http://heise.de/-3159811>`_ 
+ - `Oracle und Google versprechen, Gerichtsjuroren nicht auszuspionieren <http://heise.de/-3161225>`_
+ - `Allianz will Autoversicherung mit ueberwachtem Fahrverhalten anbieten <http://heise.de/-3164069>`_
+
+**Politik**
+ - `Die laestige teure Endlagerfrage <http://www.heise.de/tp/artikel/47/47499/1.html>`_
+ - `Der teuerste Strom aller Zeiten <http://www.heise.de/tp/artikel/47/47530/1.html>`_
+
+**Vorarlberg**
+ - `Lebensmittel: 100.000 Euro landen taeglich im Muell <http://vorarlberg.orf.at/news/stories/2764966/>`_
+
+**Panama Papers**
+ - `Wie objektiv ist die Recherche? <http://www.heise.de/tp/news/Panama-Papers-Wie-objektiv-ist-die-Recherche-3161081.html>`_
+ - Kommentar von `Guenter Hack <http://orf.at/stories/2331705/2332051/>`_
+
+**Video**
+ - Killerdrone `Drone mit Kettensaege <https://www.youtube.com/watch?v=6Viwwetf0gU>`_
