@@ -10,4 +10,4 @@ Projekte
 
 `radlar.at - Mein Blog zum Thema Fahrrad <https://radlar.at/>`_
 
-`Meine Projekte auf GitHub (momentan nichts aktiv) <https://github.com/crhomber>`_
+`Meine Projekte auf GitHub <https://github.com/crhomber>`_
