@@ -1,0 +1,18 @@
+news-2017-12-26
+#################
+:date: 2017-12-26 2:30
+:slug: news-2017-12-26
+:tags: News, 2017, UPC, T-Mobile Austria, NATO, whois, Datenschutzverordnung, EU, Klimawandel, Nasa, Voyager
+:lang: de
+
+**IT/Technik**
+ - UPC geht an `T-Mobile Austria <https://derstandard.at/2000070862395/T-Mobile-Austria-kauft-UPC-Austria-um-1-9-Milliarden>`_ 
+ - NASA zuendete Triebwerk nach `37 Jahren <https://heise.de/-3914879>`_
+
+ - NATO hat anscheinen Angst wegen `Russischen U-Booten <https://derstandard.at/2000070862395/T-Mobile-Austria-kauft-UPC-Austria-um-1-9-Milliarden>`_ 
+
+ - WHOIS dank neuer EU-Datenschutzverordnung vor dem `aus <https://heise.de/-3916669>`_
+
+**Umwelt/Natur**
+ - Klimawandel schreitet `anscheinend schneller voran <https://heise.de/-3914879>`_ als erwartet
+
