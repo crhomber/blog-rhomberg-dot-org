@@ -11,7 +11,7 @@ Da ich Arch Linux verwende, habe ich mal nachgeschaut wie man den Microcode upda
 
 .. code-block:: bash
 
-	sudo pacman -R intel-ucode
+	sudo pacman -S intel-ucode
 	sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 
