@@ -10,7 +10,7 @@ Haette nicht gedacht, dass das Teil schon 10 Jahre auf dem Buckel hat.
 
 Sogar einen Sturtz aus 1m Hoehe beim Umzug in die neue Wohnung/Keller hat sie ohne Schaden ueberstanden.
 Bis auf eine neue SSD (Samsung EVO irgenwas) und eine USB 3.1 Karte ist alles noch wie damals.
-Leider laeuft der Luefter der Quadro FX 1500 rennt die ganze Zeit, ist aber egal, im Keller stoerts ja niemanden.
+Leider laeuft der Luefter der Quadro FX 1500 die ganze Zeit, ist aber egal, im Keller stoerts ja niemanden.
 
 
 .. image:: images/hp-workstation-warranty.png
