@@ -28,3 +28,5 @@ Aja - noch etwas:
 
 Die Workstation ist wie gesagt 10 Jahre alt, und ich habe ein 4k Display und einen 24 Zoeller dran.
 Ist also alles kein Hexenwerk mit dem 4k...das geht bei der entsprechenden Hardware schon lang.
+
+10 Jahre hat es gedauert, bis ich den Windows Vista Sticker abgemacht hab...
