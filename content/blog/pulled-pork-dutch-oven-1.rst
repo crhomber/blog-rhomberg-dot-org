@@ -12,27 +12,27 @@ So habe ich mir mein eigenes Rezept gebastelt, mit wichten Tips von Lucas, danke
 
 Hier ist das Ergebnis:
 
-.. image:: images/thumbs/pulled-pork-1-1.jpg
+.. image:: images/thumbs/thumbnail_tall/pulled-pork-1-1.jpg
         :target: images/pulled-pork-1-1.jpg
         :alt: Pulled Pork
 
-.. image:: images/thumbs/pulled-pork-1-2.jpg
+.. image:: images/thumbs/thumbnail_tall/pulled-pork-1-2.jpg
         :target: images/pulled-pork-1-2.jpg
         :alt: Pulled Pork
 
-.. image:: images/thumbs/pulled-pork-1-3.jpg
+.. image:: images/thumbs/thumbnail_tall/pulled-pork-1-3.jpg
         :target: images/pulled-pork-1-3.jpg
         :alt: Pulled Pork
 
-.. image:: images/thumbs/pulled-pork-1-4.jpg
+.. image:: images/thumbs/thumbnail_tall/pulled-pork-1-4.jpg
         :target: images/pulled-pork-1-4.jpg
         :alt: Pulled Pork
 
-.. image:: images/thumbs/pulled-pork-1-5.jpg
+.. image:: images/thumbs/thumbnail_tall/pulled-pork-1-5.jpg
         :target: images/pulled-pork-1-5.jpg
         :alt: Pulled Pork
 
-.. image:: images/thumbs/pulled-pork-1-6.jpg
+.. image:: images/thumbs/thumbnail_tall/pulled-pork-1-6.jpg
         :target: images/pulled-pork-1-6.jpg
         :alt: Pulled Pork
 
