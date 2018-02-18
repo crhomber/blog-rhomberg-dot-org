@@ -7,8 +7,8 @@ HP xw6600 Workstation - 10 Jahre - Staub
 Ok, - wie schon angemerkt, ich werde die Kiste mal reinigen.
 
 
-.. image:: images/hp-workstation-dust.png
-        :alt: Screenshot
+.. image:: images/hp-workstation-dust.jpg
+        :alt: HP Workstation
 
 
 
