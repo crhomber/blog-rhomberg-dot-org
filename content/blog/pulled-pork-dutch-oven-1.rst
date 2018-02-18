@@ -8,7 +8,7 @@ Der Dutch Oven hats mir voll angetan, schon zwei Mal habe ich div. Gemuese zuber
 
 Jedenfalls hatte ich gestern extrem Lust ein Pulled Pork zu kochen, ich habe ja schon div. Rezepte online gelesen und auch Videos im Netz angeschaut. Alle machens irgendwie anders, jedoch die Meisten sparen nicht beim Fett, das hat mich etwas gestoert.
 
-So habe ich mir mein eigenes Rezept gebastelt, mit wichten Tips von Lucas, danke nochmals!
+So habe ich mir mein eigenes Rezept gebastelt, mit wichtigen Tips von Lucas, danke nochmals!
 
 Hier ist das Ergebnis:
 
