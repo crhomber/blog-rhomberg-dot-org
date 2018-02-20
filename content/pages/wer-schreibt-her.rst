@@ -16,5 +16,5 @@ Auf diesem Webserver werden ganz bewusst keine Logfiles angelegt/gespeichert.
 
 Technik:
 Die Seiten werden mit `Pelican <http://blog.getpelican.com/>`_ erstellt und statisch ausgeliefert (ein NGINX mit Caching ist als Reverse-Proxy vorgeschaltet und uebernimmt das SSL).
-Auf dem Server wird FreeBSD eingesetzt, als Hardware kommt ein HP Microserver zum Einsatz, die Anbindung erfolgt ueber UPC-Cablecom (DOCSIS 3.0).
+Auf dem Server wird FreeBSD eingesetzt, als Hardware kommt eine IBM x3690x5 zum Einsatz, die Anbindung erfolgt ueber Glasfaser. 
 
