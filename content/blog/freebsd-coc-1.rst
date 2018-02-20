@@ -1,7 +1,7 @@
 FreeBSD Code of Conduct
 ############################
 :date: 2018-02-20 11:57
-:slug: freebsd-cod-1
+:slug: freebsd-coc-1
 :tags: FreeBSD, Code of Conduct, Community, Software
 
 Kuerzlich hat das `FreeBSD-Projekt <https://www.freebsd.org>`_ einen `Code of Conduct <https://www.freebsd.org/internal/code-of-conduct.html>`_ eingefuehrt.
