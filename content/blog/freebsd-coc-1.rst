@@ -8,7 +8,7 @@ Kuerzlich hat das `FreeBSD-Projekt <https://www.freebsd.org>`_ einen `Code of Co
 
 Ev. hats ja jemand mitbekommen, im Netz gings dann ziemlich ab, denn was da steht ist schon etwas ungewoehnlich.
 
-Die `Diskussion im Forum <https://forums.freebsd.org/threads/is-the-community-become-fragile.64690/page-3>`_ ist mitlerweile auch von einem Moderator geschlossen worden, auf div. anderen Plattformen scheinen Threads geloescht worden.
+Die `Diskussion im Forum <https://forums.freebsd.org/threads/is-the-community-become-fragile.64690/page-3>`_ ist mittlerweile auch von einem Moderator geschlossen worden, auf div. anderen Plattformen scheinen Threads geloescht worden.
 
 Ich verfolge das Projekt recht aktiv, aber habe nicht mitbekommen, dass es da groebere Probleme gegeben hat, welche zu einem CoC fuehren sollten.
 
