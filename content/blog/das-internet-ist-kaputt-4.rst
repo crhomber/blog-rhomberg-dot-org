@@ -4,4 +4,4 @@ Das Internet ist "kaputt" 4
 :slug: das-internet-ist-kaputt-4
 :tags: Internet, kaputt, Medien, Memcached
 
-Verwendet jemand `Memcached offen am Inet?<https://heise.de/-3980440>`_
+Verwendet jemand `Memcached offen am Inet<https://heise.de/-3980440>`_?
