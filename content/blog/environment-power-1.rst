@@ -1,6 +1,6 @@
 Environment will Power!
 ##############################################
-:date: 2018-02-20 13:30
+:date: 2018-02-28 32:30
 :slug: environment-power-1
 :tags: Hardware, Labor, Workstation, Server, Energie, VKW
 
