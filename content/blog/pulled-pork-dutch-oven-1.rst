@@ -36,13 +36,6 @@ Hier ist das Ergebnis:
         :target: images/pulled-pork-1-6.jpg
         :alt: Pulled Pork
 
-lightbox test
-
-
-.. lightbox:: 
-	:thumbnail: images/thumbs/thumbnail_tall/pulled-pork-1-6.jpg
-	:large: images/pulled-pork-1-6.jpg
-        :alt: Pulled Pork
  
 Somit klingelte heute um 06:00 der Wecker und die Kohlen wurden angeheizt.
 
