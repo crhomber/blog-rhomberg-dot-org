@@ -5,7 +5,7 @@ Netzwerkproblem - geloest!
 :tags: Netzwerk, Problem, Windows, Unix, Linux, FreeBSD, A1, Kabel
 :keywords: 
 
-Ich schrieb ja vor einiger Zeit von einem schraegen [Netzwerkproblem]({filename}/netzwerk-problem-1.rst) bei einem Kunden.
+Ich schrieb ja vor einiger Zeit von einem schraegen `Netzwerkproblem <{filename}/netzwerk-problem-1.rst`_ bei einem Kunden.
 Das Problemt trat nicht immer auf, schien nur Windows zu betreffen und war sehr schwer einzugrenzen.
 
 Jedenfalls lags an dem Wunderbaren A1 Modem, das Pirelli irgendwas...
