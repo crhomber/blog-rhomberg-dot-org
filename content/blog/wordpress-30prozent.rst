@@ -1,6 +1,6 @@
 30% aller Websites laufen mit WordPress
 ########################################
-:date: 2018-06-06 20:22
+:date: 2018-03-06 20:22
 :slug: wordpress-30prozent
 :tags: Wordpress, CMS, OSS
 
