@@ -1,6 +1,6 @@
 AMD Kursmanipulation? AMDFLAWS
 ########################################
-:date: 2018-03-12 21:3-
+:date: 2018-03-12 21:30
 :slug: amd-kursmanipulation-1
 :tags: IT, Hardware, Intel, AMD, AMDFLAWS, Sicherheit, Bug, Security, Heise,
 
