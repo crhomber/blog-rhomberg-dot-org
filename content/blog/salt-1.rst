@@ -14,7 +14,7 @@ Vor ca. einem Jahr habe ich mir gedacht "Bis Silvester migriere ich alles auf Sa
 Mitlerweile haben wir Salt voll in unseren Deployment-Prozess was PERY angeht eingebunden, viele andere Dinge sind auch schon abgedeckt.
 Gerade gestern war ich wieder mal froh als auf 70 Kisten ein neuer SSH-User samt Public-Key ausgerollt werden musste, ohne zentrales Management wohl einiges an Arbeit.
 
-Mitlerweile erledigen wir folgende Aufgaben mittels Salt:
+Mittlerweile erledigen wir folgende Aufgaben mittels Salt:
 
  * User anlegen und entfernen
  * SSH-Keys ausrollen (authorized_keys)

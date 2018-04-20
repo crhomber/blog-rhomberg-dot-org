@@ -5,7 +5,7 @@ Salt - aktueller Status 2
 :tags: Salt, Administrator, Job, Perfany
 :keywords: Salt, FreeBSD
 
-Mitlerweile erledigen wir folgende Aufgaben mittels Salt:
+Mittlerweile erledigen wir folgende Aufgaben mittels Salt:
 
  * User anlegen und entfernen
  * SSH-Keys ausrollen (authorized_keys)
