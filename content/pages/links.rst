@@ -7,9 +7,7 @@ Links
 
 
 IT:
-
-* `Host file <http://someonewhocares.org/hosts/>`_
-* `Ninite <https://ninite.com/7zip-firefox-greenshot-notepadplusplus-pdfcreator-sumatrapdf-vlc-windirstat/ninite.exe>`_
+* `Salt Minion 64-Bit Windows <https://repo.saltstack.com/windows/Salt-Minion-2018.3.0-Py2-AMD64-Setup.exe>`_
 
 Misc:
 
