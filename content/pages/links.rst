@@ -7,6 +7,7 @@ Links
 
 
 IT:
+
 * `Salt Minion 64-Bit Windows <https://repo.saltstack.com/windows/Salt-Minion-2018.3.0-Py2-AMD64-Setup.exe>`_
 
 Misc:
