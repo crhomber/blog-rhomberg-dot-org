@@ -4,7 +4,7 @@ Staufen
 :slug: staufen-1
 :tags: Vorarlberg, Dornbirn, Staufen, Alpe, Wandern
 
-Den heutigen Sonntag Vormittag haben Martina und ich genutzt um wieder mal auf den Staufen zu wandern.
+Den heutigen Sonntag Vormittag haben Martina und ich genutzt um wieder mal auf den `Staufen <https://de.wikipedia.org/wiki/Staufen_(Bregenzerwaldgebirge)>`_ zu wandern.
 
 Leider war es sehr nebelig, somit gibt es kein Foto von oben, da war nur weiss ;-).
 
