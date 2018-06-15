@@ -17,7 +17,4 @@ Misc:
 
 Dinge, die ich mir anschauen sollte:
 
-* `kinko <https://kinko.me/>`_
-* `palava - web conference <https://palava.tv>`_
-* `screeninvader - share your stuff <http://metalab.github.io/ScreenInvader/>`_
 
