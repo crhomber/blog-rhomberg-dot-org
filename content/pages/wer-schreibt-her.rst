@@ -15,6 +15,6 @@ Mitgruender und Geschaeftsfuehrer von `Perfany <http://www.perfany.at>`_, einem 
 Auf diesem Webserver werden ganz bewusst keine Logfiles angelegt/gespeichert.
 
 Technik:
-Die Seiten werden mit `Pelican <http://blog.getpelican.com/>`_ erstellt und statisch ausgeliefert (ein NGINX mit Caching ist als Reverse-Proxy vorgeschaltet und uebernimmt das SSL).
+Die Seiten werden mit `Pelican <http://blog.getpelican.com/>`_ erstellt und statisch ausgeliefert (ein NGINX mit Caching ist als Reverse-Proxy vorgeschaltet und uebernimmt das TLS).
 Auf dem Server wird FreeBSD eingesetzt, als Hardware kommt eine IBM x3690x5 zum Einsatz, die Anbindung erfolgt ueber Glasfaser. 
 
