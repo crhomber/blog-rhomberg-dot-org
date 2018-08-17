@@ -15,6 +15,3 @@ Misc:
 * `NSA-Files <http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/>`_
 * `explain xkcd <http://www.explainxkcd.com/wiki/index.php?title=Main_Page>`_
 
-Dinge, die ich mir anschauen sollte:
-
-
