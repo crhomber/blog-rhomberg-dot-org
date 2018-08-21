@@ -1,6 +1,6 @@
 Mörzelspitze
 ##################################
-:date: 2015-08-21 20:50
+:date: 2018-08-21 20:50
 :author: Christian
 :tags: Dornbirn, Fluh, Foto, Mörzelspitze, Wandern
 :slug: moerzel-1
