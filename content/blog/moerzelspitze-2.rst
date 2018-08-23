@@ -10,7 +10,7 @@ Bereits fuenf Jahre ist es her, als wer das letzte Mal auf der Mörzelspitze war
 Wir haben wieder die `Unterfluhalpe <https://lexikon.dornbirn.at/startseite/strassen-bauten-und-umwelt/alpen/unterfluh/>`_ als Ausgangspunkt gewaehlt. Mit dem Auto von uns aus innert 30 Minuten zu erreichen.
 
 .. lightbox:: 
-	:thumbnail: images/thumbs/thumbnail_tall/2018-08-21-moerzel-strava.jpg
+	:thumb: images/thumbs/thumbnail_tall/2018-08-21-moerzel-strava.jpg
         :large: images/2018-08-21-moerzel-strava.jpg
         :alt: Strava Screenshot
 
