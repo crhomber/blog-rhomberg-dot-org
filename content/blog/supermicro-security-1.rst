@@ -9,7 +9,7 @@ Puh, das Thema ist ganz schon schwierig und es gibt leider immer noch keine Klar
 Hintergrund:
 Bloomberg `berichtete <https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies>`_ vom "Big Hack". Es geht darum, dass "irgendwer" in China direkt auf Boards von Supermicro (einer der groessten Hersteller von Serverhardware) "Spionagechips" implantiert hat.
 
-Jetzt hagelt es `Dementies <https://www.bloomberg.com/news/articles/2018-10-04/the-big-hack-amazon-apple-supermicro-and-beijing-respond>`_ und auch die Security-Community ist sich noch nicht ganz sicher ob dies alles technisch wirklich so moeglich war.
+Jetzt hagelt es `Dementis <https://www.bloomberg.com/news/articles/2018-10-04/the-big-hack-amazon-apple-supermicro-and-beijing-respond>`_ und auch die Security-Community ist sich noch nicht ganz sicher ob dies alles technisch wirklich so moeglich war.
 
 Es geht um einen Chip, etwa so gross wie ein Reiskorn, in der Naehe des IPMI-Stacks, also der Ferwartungshardware (Embedded System auf dem Board). Gerade im IPMI-Bereich gibts immer wieder grauslige Fehler, egal von welchem Hersteller - teilweise gibt es dann auch keine Patches mehr dafuer.
 
