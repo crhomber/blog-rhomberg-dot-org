@@ -1,6 +1,6 @@
 Supermicro Security - Update
 ##############################
-:date: 2018-10-08 19:15
+:date: 2018-10-10 10:15
 :author: Christian
 :tags: NSA, Supermicro, USA, China, Hardware, Spionage, Geheimdienste, Finanzen, Aktien
 :slug: supermicro-security-2
