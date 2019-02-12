@@ -4,9 +4,6 @@ Wer schreibt hier
 :page-order: 1
 
 
-.. image:: ../images/christian.png
-        :alt: Christian Rhomberg
-
 Christian Rhomberg, lebt in Dornbirn (Oesterreich), verheiratet und Vater von einem Sohn (2014).
 
 Mitgruender und Geschaeftsfuehrer von `Perfany <http://www.perfany.at>`_, einem jungen Unternehmen in Lustenau.
